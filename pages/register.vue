@@ -65,7 +65,7 @@ border-radius: 20px;
 font-family: 'Inter';
 font-style: normal;
 font-weight: 400;
-font-size: 25px;
+font-size: 50px;
 line-height: 30px;
 
 color: #FFFFFF;
@@ -83,7 +83,7 @@ border-radius: 20px;
 font-family: 'Inter';
 font-style: normal;
 font-weight: 400;
-font-size: 25px;
+font-size: 50px;
 line-height: 30px;
 
 color: #ffffff;
@@ -101,7 +101,7 @@ color: #ffffff;
   font-family: 'Inter';
 font-style: normal;
 font-weight: 400;
-font-size: 25px;
+font-size: 50px;
 line-height: 30px;
 
 color: #ffffff;
