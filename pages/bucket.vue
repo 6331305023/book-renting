@@ -41,7 +41,7 @@
                 value="J&T"
               ></v-radio>
     </div>
-    <div class="text12">ที่อยู่การจัดส่ง</div>
+    <div class="text12">ที่อยู่การจัดส่ง ยยย</div>
     <div class="text13">333 Moo1, Thasud, Muang, Chiang Rai 57100 
 Tel: 0-5391-6000, 0-5391-7034 Fax: 0-5391-6034, 0-5391-7049
 Mae Fah Luang University, Bangkok Office Tel: 0-2679-0038-9 Fax: 0-2679-0038
