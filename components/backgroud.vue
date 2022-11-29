@@ -20,16 +20,16 @@
     <v-btn fab text small @click="prev">
       <v-icon medium>mdi-chevron-left</v-icon>
     </v-btn>
-    <v-btn class="mg" fab text small @click="prev">
+    <v-btn class="mg" fab text small @click="goSearch">
       <v-icon large>mdi-magnify</v-icon>
     </v-btn>
-    <v-btn class="ac" fab text small @click="prev">
+    <v-btn class="ac" fab text small @click="goPro">
       <v-icon large>mdi-account-circle-outline</v-icon>
     </v-btn>
-    <v-btn class="bell" fab text small @click="prev">
+    <v-btn class="bell" fab text small @click="goNoti">
       <v-icon large>mdi-bell-alert-outline</v-icon>
     </v-btn>
-    <v-btn class="cart" fab text small @click="prev">
+    <v-btn class="cart" fab text small @click="goBuck">
       <v-icon large>mdi-cart-outline</v-icon>
     </v-btn>
   </div>
@@ -91,7 +91,7 @@
 }
 .rc:hover {
   border-radius: 10px;
-  background: green;
+  background: rgb(76, 1, 8);
 }
 .pm {
   position: absolute;
@@ -110,7 +110,7 @@
 }
 .pm:hover {
   border-radius: 10px;
-  background: green;
+  background: rgb(76, 1, 8);
 }
 .ct {
   position: absolute;
@@ -129,7 +129,7 @@
 }
 .ct:hover {
   border-radius: 10px;
-  background: green;
+  background: rgb(76, 1, 8);
 }
 .search {
   position: absolute;
@@ -179,10 +179,22 @@ export default {
       this.$router.push('./rentalCon');
     },
     goPm(){
-      this.$router.push('./payment');
+      this.$router.push('./payments');
     },
     goCont(){
-      this.$router.push('./contract');
+      this.$router.push('./contracts');
+    },
+    goPro(){
+      this.$router.push('./profile');
+    },
+    goNoti(){
+      this.$router.push('./notification');
+    },
+    goBuck(){
+      this.$router.push('./bucket');
+    },
+    goSearch(){
+      this.$router.push('./searching');
     },
   },
 

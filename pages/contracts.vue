@@ -117,7 +117,7 @@ export default {
   width: 163px;
   height: 80px;
   left: 230px;
-  top: 266px;
+  top: 460px;
 
   background: #c1a6a6;
 
@@ -134,7 +134,7 @@ export default {
   width: 853px;
   height: 80px;
   left: 393px;
-  top: 266px;
+  top: 460px;
 
   background: #b59d9d;
 }
@@ -143,7 +143,7 @@ export default {
   width: 163px;
   height: 80px;
   left: 230px;
-  top: 346px;
+  top: 540px;
 
   background: #b59d9d;
 
@@ -160,7 +160,7 @@ export default {
   width: 853px;
   height: 80px;
   left: 393px;
-  top: 346px;
+  top: 540px;
 
   background: #c1a6a6;
 }
@@ -169,7 +169,7 @@ export default {
   width: 163px;
   height: 80px;
   left: 230px;
-  top: 426px;
+  top: 620px;
 
   background: #c1a6a6;
 
@@ -186,7 +186,7 @@ export default {
   width: 853px;
   height: 80px;
   left: 393px;
-  top: 426px;
+  top: 620px;
 
   background: #b59d9d;
 }
@@ -195,7 +195,7 @@ export default {
   width: 163px;
   height: 80px;
   left: 230px;
-  top: 507px;
+  top: 700px;
 
   background: #b59d9d;
 
@@ -213,7 +213,7 @@ export default {
   width: 853px;
   height: 80px;
   left: 393px;
-  top: 507px;
+  top: 700px;
 
   background: #c1a6a6;
 }
