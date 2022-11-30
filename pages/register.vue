@@ -17,7 +17,7 @@
       <div>  
         <input class="pass" type="password" placeholder="Password" v-model="user.password"/>
       </div>
-      <v-btn class="si" color="#924D3C">Sign In</v-btn>
+      <v-btn class="si" color="#924D3C">Sign Up</v-btn>
     </div>
   </div>
 </template>
